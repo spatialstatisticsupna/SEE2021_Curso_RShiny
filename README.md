@@ -35,5 +35,10 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 # Registro e instalación SSTCDapp
 
+[**SSTCDapp**](https://emi-sstcdapp.unavarra.es/) es una aplicación web interactiva desarrollada con [*Shiny*](https://shiny.rstudio.com/) para el análisis espacial y espacio-temporal de datos de área (*lattice data*).
+
+Cada nuevo usuario debe registrarse en la aplicación por primera vez a t y se le enviará una contraseña a la dirección de correo electrónico del usuario.
+
+![Login](Login.png)
 
 # Material del curso
