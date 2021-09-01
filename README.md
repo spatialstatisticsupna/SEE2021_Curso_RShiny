@@ -49,7 +49,13 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 # Material del curso
 
-El material del curso se encuentra disponible para su descarga a través del siguiente [**enlace**](https://github.com/spatialstatisticsupna/SEE2021_Curso_RShiny/blob/master/files/SSTCDapp_Slides.pdf).
+- El material del curso se encuentra disponible para su descarga a través del siguiente [**enlace**](https://github.com/spatialstatisticsupna/SEE2021_Curso_RShiny/blob/master/files/SSTCDapp_Slides.pdf).
+
+- Manual de usuario y ejemplos de la aplicación SSTCDapp:
+  - [SSTCDapp User Guide (version 1.3.1)](https://emi-sstcdapp.unavarra.es/Curso_SEE2021/SSTCDapp_UserGuide_v131.pdf)
+  - Ejemplo 1. Datos de mortalidad por cáncer de labio en Escocia: [descargar](https://emi-sstcdapp.unavarra.es/Curso_SEE2021/Scotland_LipCancer.zip)
+  - Ejemplo 2: Datos de mortalidad por cáncer mama en España (espacial): [descargar](https://emi-sstcdapp.unavarra.es/Curso_SEE2021/Spain_BreastCancer_Rates.zip)
+  - Ejemplo 3: Datos de mortalidad por cáncer mama en España (espacio-temporal): [descargar](https://emi-sstcdapp.unavarra.es/Curso_SEE2021/Spain_BreastCancer_Risks.zip)
 
 
 # Referencias
