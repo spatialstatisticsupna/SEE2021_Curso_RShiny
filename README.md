@@ -1,6 +1,6 @@
 # Curso precongreso R-Shiny (SEE 2021)
 
-Este repositorio contiene el programa y el material del curso ["Aplicación web R-Shiny para el análisis espacial y espacio-temporal de datos de área con aplicaciones en epidemiología (SSTCDapp)"](https://www.reunionanualsee.org/index.php?go=pre_congreso) impartido en la XXXIX Reunión Anual de la Sociedad Española de Epidemiología (SEE 2021) 
+Este repositorio contiene el programa y el material del curso precongreso ["Aplicación web R-Shiny para el análisis espacial y espacio-temporal de datos de área con aplicaciones en epidemiología (SSTCDapp)"](https://www.reunionanualsee.org/index.php?go=pre_congreso) impartido en la XXXIX Reunión Anual de la Sociedad Española de Epidemiología (SEE 2021) 
 
 
 ## Table of contents
