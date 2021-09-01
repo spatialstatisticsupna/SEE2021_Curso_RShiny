@@ -37,13 +37,11 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 - **SSTCDapp** es una aplicación web interactiva desarrollada con [*Shiny*](https://shiny.rstudio.com/) para el análisis espacial y espacio-temporal de datos de área (*lattice data*), con un enfoque particular en el campo de la representación cartográfica de enfermedades (*disease mapping* en inglés). El ajuste de los modelos se basa en técnica de inferencia Bayesiana INLA (*integrated nested Laplace approximation*) a través de la libreria [**R-INLA**](https://www.r-inla.org/).
 
-- A diferencia de otros programas utilizados en disease mapping, la aplicación SSTCDapp facilita el ajuste de modelos estadísticos complejos a usuarios no expertos sin necesidad de instalar ningún software en sus propios ordenadores, ya que todos los análisis y cálculos se realizan en un potente servidor remoto.
+- A diferencia de otros programas utilizados en disease mapping, **la aplicación SSTCDapp facilita el ajuste de modelos estadísticos complejos a usuarios no expertos sin necesidad de instalar ningún software en sus propios ordenadores**, ya que todos los análisis y cálculos se realizan en un potente servidor remoto.
 
-- Cada nuevo usuario debe registrarse en la aplicación por primera vez a través del enlace https://emi-sstcdapp.unavarra.es/. Una vez introducidos los datos requeridos, se le enviará una contraseña a la dirección de correo electrónico del usuario.
+- **Cada nuevo usuario debe registrarse en la aplicación por primera vez** a través del enlace https://emi-sstcdapp.unavarra.es/. Una vez introducidos los datos requeridos, se le enviará una contraseña a la dirección de correo electrónico del usuario.
 
-- La contraseña es necesaria para iniciar sesión en la aplicación SSTCDapp y crear una cuenta personal. De esta manera, el usuario podrá enviar los modelos para que se ejecuten en servidor remoto y recopilar los resultados una vez hayan finalizado los cálculos. 
-
-- La aplicación utiliza conexiones SSH para la transferencia de datos al servidor remoto cuando se ajusta al modelo INLA. Ningún usuario tiene acceso a los datos y resultados de cualquier otro usuario, y los archivos de datos cargados por los usuarios se eliminan automáticamente de la aplicación una vez que se han desconectado. 
+- **La contraseña es necesaria para iniciar sesión en la aplicación SSTCDapp y crear una cuenta personal**. De esta manera, el usuario podrá enviar los modelos para que se ejecuten en servidor remoto y recopilar los resultados una vez hayan finalizado los cálculos. La aplicación utiliza conexiones SSH para la transferencia de datos al servidor remoto cuando se ajusta al modelo INLA. Ningún usuario tiene acceso a los datos y resultados de cualquier otro usuario, y los archivos de datos cargados por los usuarios se eliminan automáticamente de la aplicación una vez que se han desconectado. 
 
 - También está disponible una **versión de escritorio** con el código fuente de la aplicación que se ejecutará localmente si es necesario, lo que garantiza la confidencialidad de los datos. Para instalar esta versión local, se debe descargar el archivo .zip ubicado en la pestaña *Desktop version* del menú izquierdo de la aplicación y seguir las instrucciones del archivo [README.html](https://emi-sstcdapp.unavarra.es/Curso_SEE2021/README.html).
 
