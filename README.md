@@ -44,7 +44,9 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 - **La contraseña es necesaria para iniciar sesión en la aplicación SSTCDapp y crear una cuenta personal**. De esta manera, el usuario podrá enviar los modelos para que se ejecuten en servidor remoto y recopilar los resultados una vez hayan finalizado los cálculos. La aplicación utiliza conexiones SSH para la transferencia de datos al servidor remoto cuando se ajusta al modelo INLA. Ningún usuario tiene acceso a los datos y resultados de cualquier otro usuario, y los archivos de datos cargados por los usuarios se eliminan automáticamente de la aplicación una vez que se han desconectado. 
 
-- También está disponible una **versión de escritorio** con el código fuente de la aplicación que se ejecutará localmente si es necesario, lo que garantiza la confidencialidad de los datos. Para instalar esta versión local, se debe descargar el archivo .zip ubicado en la pestaña *Desktop version* del menú izquierdo de la aplicación y seguir las instrucciones del archivo [README.html](https://emi-sstcdapp.unavarra.es/Curso_SEE2021/README.html).
+- **_Opcional para usuarios "expertos" de R"_**:
+
+  También está disponible una **versión de escritorio** con el código fuente de la aplicación que se ejecutará localmente si es necesario, lo que garantiza la confidencialidad de los datos. Para instalar esta versión local, se debe descargar el archivo .zip ubicado en la pestaña *Desktop version* del menú izquierdo de la aplicación y seguir las instrucciones del archivo [README.html](https://emi-sstcdapp.unavarra.es/Curso_SEE2021/README.html).
 
 
 # Material del curso
