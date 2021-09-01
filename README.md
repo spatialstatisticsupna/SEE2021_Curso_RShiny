@@ -8,6 +8,7 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 - [Programa](#Programa)
 - [Registro e instalación SSTCDapp](#Registro-e-instalación-SSTCDapp)
 - [Material del curso](#material-del-curso)
+- [Referencias](#referencias)
 
 
 # Programa
@@ -47,3 +48,16 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 
 # Material del curso
+
+
+# Referencias
+
+Al utilizar esta aplicación, cite los siguientes documentos:
+
+[Adin, A., Goicoa, T., and Ugarte, M.D. (2019). Online relative risks/rates estimation in spatial and spatio-temporal disease mapping. Computer Methods and Programs in Biomedicine 172, 103-116.](https://doi.org/10.1016/j.cmpb.2019.02.014)
+
+[Ugarte, M.D., Adin, A., Goicoa, T., and Militino, A.F. (2014). On fitting spatio-temporal disease mapping models using approximate Bayesian inference. Statistical Methods in Medical Research 23, 507-530.](https://doi.org/10.1177/0962280214527528)
+
+[Goicoa, T., Adin, A., Ugarte, M.D., and Hodges, J.S. (2018). In spatio-temporal disease mapping models, identifiability constraints affect PQL and INLA results. Stochastic Environmental Research and Risk Assessment 32, 749-770.](https://doi.org/10.1007/s00477-017-1405-0)
+
+[Rue, H., Martino, S., and Chopin, N. (2009). Approximate Bayesian inference for latent Gaussian models using integrated nested Laplace approximations. Journal of the Royal Statistical Society B (Statistical Methodology) 71, 319-392.](https://doi.org/10.1111/j.1467-9868.2008.00700.x)
