@@ -39,6 +39,6 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 Cada nuevo usuario debe registrarse en la aplicación por primera vez a t y se le enviará una contraseña a la dirección de correo electrónico del usuario.
 
-![Optional Text](../master/img/Login.png)
+![Optional Text](https://github.com/spatialstatisticsupna/SEE2021_Curso_RShiny/tree/main/img/Login.png)
 
 # Material del curso
