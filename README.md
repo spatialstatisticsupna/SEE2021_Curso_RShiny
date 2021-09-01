@@ -49,7 +49,7 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 # Material del curso
 
-[Material](https://github.com/spatialstatisticsupna/SEE2021_Curso_RShiny/blob/master/files/SSTCDapp_Slides.pdf)
+El material del curso se encuentra disponible para su descarga a través del siguiente [**enlace**](https://github.com/spatialstatisticsupna/SEE2021_Curso_RShiny/blob/master/files/SSTCDapp_Slides.pdf).
 
 
 # Referencias
