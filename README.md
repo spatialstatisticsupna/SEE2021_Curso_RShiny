@@ -45,6 +45,7 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 - La aplicación utiliza conexiones SSH para la transferencia de datos al servidor remoto cuando se ajusta al modelo INLA. Ningún usuario tiene acceso a los datos y resultados de cualquier otro usuario, y los archivos de datos cargados por los usuarios se eliminan automáticamente de la aplicación una vez que se han desconectado. 
 
-- También está disponible una **versión de escritorio** con el código fuente de la aplicación que se ejecutará localmente si es necesario, lo que garantiza la confidencialidad de los datos. Para instalar esta versión local, se debe descargar el archivo .zip ubicado en la pestaña *Desktop version* del menú izquierdo de la aplicación y seguir las instrucciones del archivo [README.html](https://github.com/spatialstatisticsupna/SEE2021_Curso_RShiny/blob/master/files/README.html)
+- También está disponible una **versión de escritorio** con el código fuente de la aplicación que se ejecutará localmente si es necesario, lo que garantiza la confidencialidad de los datos. Para instalar esta versión local, se debe descargar el archivo .zip ubicado en la pestaña *Desktop version* del menú izquierdo de la aplicación y seguir las instrucciones del archivo [README.html](https://emi-sstcdapp.unavarra.es/Curso_SEE2021/README.html).
+
 
 # Material del curso
