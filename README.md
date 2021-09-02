@@ -26,7 +26,7 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
     - Presentación de la herramienta web interactiva SSTCDapp y registro.
   - 17:00-17:40
     - Ejemplo 1. Análisis espacial de los riesgos de mortalidad por cáncer de labio en Escocia.
-  - 17:40-18:00 Pausa café
+  - 17:40-18:00 Pausa 
   - 18:00-19:45 
     - Ejemplo 2. Análisis espacial de las tasas de mortalidad por cáncer de mama en España.
     - Ejemplo 3. Análisis espacio-temporal de las tasas de mortalidad por cáncer de mama en España.
