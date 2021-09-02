@@ -42,7 +42,7 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 - **Cada nuevo usuario debe registrarse en la aplicación por primera vez** a través del enlace https://emi-sstcdapp.unavarra.es/. Una vez introducidos los datos requeridos, se le enviará una contraseña a la dirección de correo electrónico del usuario.
 
-- **La contraseña es necesaria para iniciar sesión en la aplicación SSTCDapp y crear una cuenta personal**. De esta manera, el usuario podrá enviar los modelos para que se ejecuten en servidor remoto y recopilar los resultados una vez hayan finalizado los cálculos. La aplicación utiliza conexiones SSH para la transferencia de datos al servidor remoto cuando se ajusta al modelo INLA. Ningún usuario tiene acceso a los datos y resultados de cualquier otro usuario, y los archivos de datos cargados por los usuarios se eliminan automáticamente de la aplicación una vez que se han desconectado. 
+- **La contraseña es necesaria para iniciar sesión en la aplicación SSTCDapp y crear una cuenta personal**. De esta manera, el usuario podrá enviar los modelos para que se ejecuten en el servidor remoto y recopilar los resultados una vez hayan finalizado los cálculos. La aplicación utiliza conexiones SSH para la transferencia de datos al servidor remoto cuando se ajusta al modelo INLA. Ningún usuario tiene acceso a los datos y resultados de cualquier otro usuario, y los archivos de datos cargados por los usuarios se eliminan automáticamente de la aplicación una vez que se han desconectado. 
 
 - **_Opcional para usuarios "expertos" de R"_**:
 
