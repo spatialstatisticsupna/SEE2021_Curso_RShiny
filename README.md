@@ -36,7 +36,7 @@ Este repositorio contiene el programa y el material del curso precongreso ["Apli
 
 # Registro e instalación SSTCDapp
 
-- **SSTCDapp** es una aplicación web interactiva desarrollada con [*Shiny*](https://shiny.rstudio.com/) para el análisis espacial y espacio-temporal de datos de área (*lattice data*), con un enfoque particular en el campo de la representación cartográfica de enfermedades (*disease mapping* en inglés). El ajuste de los modelos se basa en técnica de inferencia Bayesiana INLA (*integrated nested Laplace approximation*) a través de la libreria [**R-INLA**](https://www.r-inla.org/).
+- **SSTCDapp** es una aplicación web interactiva desarrollada con [*Shiny*](https://shiny.rstudio.com/) para el análisis espacial y espacio-temporal de datos de área (*lattice data*), con un enfoque particular en el campo de la representación cartográfica de enfermedades (*disease mapping* en inglés). El ajuste de los modelos se basa en la técnica de inferencia Bayesiana INLA (*integrated nested Laplace approximation*) a través de la libreria [**R-INLA**](https://www.r-inla.org/).
 
 - A diferencia de otros programas utilizados en disease mapping, **la aplicación SSTCDapp facilita el ajuste de modelos estadísticos complejos a usuarios no expertos sin necesidad de instalar ningún software en sus propios ordenadores**, ya que todos los análisis y cálculos se realizan en un potente servidor remoto.
 
